@@ -25,5 +25,5 @@ neural networks. [[paper]](http://proceedings.mlr.press/v97/franceschi19a/france
 - [NIPS'2021-ADC] Adaptive diffusion in graph neural networks. [[paper]](https://proceedings.neurips.cc/paper/2021/file/c42af2fa7356818e0389593714f59b52-Paper.pdf)
 ### Feature-based tasks
 #### Graph Feature Completion
--[SPM'2013] The emerging field of signal processing on graphs: Extending high-dimensional data analysis to networks and other irregular domains.[[paper]](https://ieeexplore.ieee.org/iel7/79/6494646/06494675.pdf?casa_token=mD3rZmt2imAAAAAA:dtVEN95FqjgPHlO9pQ_c-xTtDMPuknx3pdjPVIkffAMEkoCRW-26vAq8gbjlXCh1Q02tEUbPHg)
+- [SPM'2013] The emerging field of signal processing on graphs: Extending high-dimensional data analysis to networks and other irregular domains.[[paper]](https://ieeexplore.ieee.org/iel7/79/6494646/06494675.pdf?casa_token=mD3rZmt2imAAAAAA:dtVEN95FqjgPHlO9pQ_c-xTtDMPuknx3pdjPVIkffAMEkoCRW-26vAq8gbjlXCh1Q02tEUbPHg)
 ## Graph Data-Centric Learning Paradigms
