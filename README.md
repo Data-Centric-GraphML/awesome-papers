@@ -3,8 +3,7 @@ A collection of papers and resources about Data Centric Graph Machine Learning (
 
 
 
-## Graph Data Centric Tasks
-***
+## Graph Data-Centric Tasks
 ### Structure-based tasks
 #### Graph Structure Learning
 - [KDD'2020-Pro-GNN] Graph structure learning for robust graph neural networks. [[paper]](https://dl.acm.org/doi/pdf/10.1145/3394486.3403049)
@@ -24,5 +23,4 @@ neural networks. [[paper]](http://proceedings.mlr.press/v97/franceschi19a/france
 - [NIPS'2019-GDC] Diffusion improves graph learning. [[paper]](https://proceedings.neurips.cc/paper/2019/file/23c894276a2c5a16470e6a31f4618d73-Paper.pdf)
 - [ICLR'2021] Adaptive universal generalized pagerank graph neural network. [[paper]](https://arxiv.org/pdf/2006.07988)
 - [NIPS'2021-ADC] Adaptive diffusion in graph neural networks. [[paper]](https://proceedings.neurips.cc/paper/2021/file/c42af2fa7356818e0389593714f59b52-Paper.pdf)
-## Graph Data Centric Learning Paradigms
-***
+## Graph Data-Centric Learning Paradigms
