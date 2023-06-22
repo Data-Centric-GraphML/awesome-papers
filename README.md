@@ -32,5 +32,12 @@ neural networks. [[paper]](http://proceedings.mlr.press/v97/franceschi19a/france
 - [IEEETransCybern'2022-Amer] Amer: A new attribute-missing network embedding approach. [[paper]](https://ieeexplore.ieee.org/iel7/6221036/6352949/09765782.pdf?casa_token=TNBxp_Z_qf8AAAAA:VPKCn0964kuE4tJZPTvUG1xAP2MEy_QvA0ym6ry8Cvu28BuFqUkG2P9xYGmXDx13TUvC_6NBu5V1)
 - [arxiv'2021-SAGA] Siamese attribute-missing graph auto-encoder. [[paper]](https://arxiv.org/pdf/2112.04842)
 #### Graph Feature Denoising
-- [SPM'2013] The emerging field of signal processing on graphs: Extending high-dimensional data analysis to networks and other irregular domains.[[paper]](https://ieeexplore.ieee.org/iel7/79/6494646/06494675.pdf?casa_token=mD3rZmt2imAAAAAA:dtVEN95FqjgPHlO9pQ_c-xTtDMPuknx3pdjPVIkffAMEkoCRW-26vAq8gbjlXCh1Q02tEUbPHg)
+- [SPM'2013] The emerging field of signal processing on graphs: Extending high-dimensional data analysis to networks and other irregular domains. [[paper]](https://ieeexplore.ieee.org/iel7/79/6494646/06494675.pdf?casa_token=mD3rZmt2imAAAAAA:dtVEN95FqjgPHlO9pQ_c-xTtDMPuknx3pdjPVIkffAMEkoCRW-26vAq8gbjlXCh1Q02tEUbPHg)
+- [GlobalSIP'2014] Signal denoising on graphs via graph filtering. [[paper]](https://ieeexplore.ieee.org/iel7/7010655/7032060/07032244.pdf?casa_token=EyFQK1dNZTUAAAAA:wzIP7ZxTWQQHcy4pfRmk3_JrDv39r8VyIXueZ_Y25VVeXHixoOP0mIMckQAn2prDBZO6EnfpFM8P)
+- [IET-SP'2018] Graph polynomial filter for signal denoising. [[paper]](https://scholar.google.com/scholar?output=instlink&q=info:N5LbqcYw_6AJ:scholar.google.com/&hl=zh-CN&as_sdt=0,5&scillfp=17975566870893489622&oi=lle)
+- [AIS'2015] Trend filtering on graphs. [[paper]](http://proceedings.mlr.press/v38/wang15d.pdf)
+- [ICASSP'2020] Graph auto-encoder for graph signal denoising. [[paper]](https://ieeexplore.ieee.org/iel7/9040208/9052899/09053623.pdf?casa_token=wp6nKhBq4eQAAAAA:VbeeBWniW1nbGLsSSTDaOlUt8Co50jVEejxpZQziCDzx8NnIJ_0ZPGVdJNi5GG9pRKAaA-rENrOL)
+- [TSP'2021] Graph unrolling networks: Interpretable neural networks for graph signal denoising. [[paper]](https://ieeexplore.ieee.org/iel7/78/4359509/09453145.pdf?casa_token=WBFBG92sg-wAAAAA:CFc6t1fhHyEQleL3nCQiBE5XNjTGFqS80VXxkHSDPEPzS7OEed6ydOV7M0ZN-yKlrkljWt-sXKh7)
+- [TSP'2022] Untrained graph neural networks for denoising. [[paper]](https://ieeexplore.ieee.org/iel7/78/4359509/09959969.pdf?casa_token=79riV29MxvkAAAAA:kEUgypSxBhsj1TqD-3vTPxUY1JoHN5E6vTh2uFkuJrSTiA7bGt6qIorsfuHB3kxczHZGkyH8E0Um)
+- [WWW'2023-MAGNET] Robust graph representation learning for local corruption recovery. [[paper]](https://yuguangwang.github.io/papers/L_p_graph_regularizer_ICML%20TAG%202022.pdf)
 ## Graph Data-Centric Learning Paradigms
