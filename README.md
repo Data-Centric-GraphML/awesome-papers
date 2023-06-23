@@ -40,4 +40,30 @@ neural networks. [[paper]](http://proceedings.mlr.press/v97/franceschi19a/france
 - [TSP'2021] Graph unrolling networks: Interpretable neural networks for graph signal denoising. [[paper]](https://ieeexplore.ieee.org/iel7/78/4359509/09453145.pdf?casa_token=WBFBG92sg-wAAAAA:CFc6t1fhHyEQleL3nCQiBE5XNjTGFqS80VXxkHSDPEPzS7OEed6ydOV7M0ZN-yKlrkljWt-sXKh7)
 - [TSP'2022] Untrained graph neural networks for denoising. [[paper]](https://ieeexplore.ieee.org/iel7/78/4359509/09959969.pdf?casa_token=79riV29MxvkAAAAA:kEUgypSxBhsj1TqD-3vTPxUY1JoHN5E6vTh2uFkuJrSTiA7bGt6qIorsfuHB3kxczHZGkyH8E0Um)
 - [WWW'2023-MAGNET] Robust graph representation learning for local corruption recovery. [[paper]](https://yuguangwang.github.io/papers/L_p_graph_regularizer_ICML%20TAG%202022.pdf)
+### Label-based tasks
+#### Graph Pseudo-labeling
+- [AAAI'2018] Deeper insights into graph convolutional networks for semi-supervised learning. [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/11604/11463)
+- [AAAI'2020] Multi-stage self-supervised learning for graph convolutional networks on graphs with few labeled nodes. [[paper]](https://ojs.aaai.org/index.php/AAAI/article/download/6048/5904)
+- [CIKM'2021-IFC-GCN] Rectifying pseudo labels: Iterative feature clustering for graph representation learning. [[paper]](https://dl.acm.org/doi/pdf/10.1145/3459637.3482469?casa_token=j-229ROWIHwAAAAA:ubON8KC_ifOtZWU2MqrFg3ZAiloxu2JGcOWWSdIZcKj-qlfgeRzL0xclkB8DF6lxs_Qcmj1lz9UFTOo)
+- [arXiv'2019-DSGCN] Dynamic self-training framework for graph convolutional networks. [[paper]](https://openreview.net/pdf?id=SJgCEpVtvr)
+- [WSDM'2022-RS-GNN] Towards robust graph neural networks for noisy graphs with sparse labels. [[paper]](https://dl.acm.org/doi/pdf/10.1145/3488560.3498408)
+- [DMKD'2023-InfoGNN] Informative pseudo-labeling for graph neural networks with few labels. [[paper]](https://link.springer.com/article/10.1007/s10618-022-00879-4)
+#### Graph Label Denoising
+- [WSDM'2023-CLNode] CLNode: Curriculum learning for node classification. [[paper]](https://dl.acm.org/doi/pdf/10.1145/3539597.3570385?casa_token=cNDTalzkl6IAAAAA:0-d5yP4lt002LAiXl9dHRFQ7iARGawdtBSZ4rVR29UeBHabh8yC7YvjAJdAac3SKLutBKX_HrN1CNts)
+- [arXiv'2019-D-GNN] Learning graph neural networks with noisy labels. [[paper]](https://arxiv.org/pdf/1905.01591)
+- [CIKM'2021-IFC-GCN] Rectifying pseudo labels: Iterative feature clustering for graph representation learning. [[paper]](https://dl.acm.org/doi/pdf/10.1145/3459637.3482469?casa_token=j-229ROWIHwAAAAA:ubON8KC_ifOtZWU2MqrFg3ZAiloxu2JGcOWWSdIZcKj-qlfgeRzL0xclkB8DF6lxs_Qcmj1lz9UFTOo)
+- [KDD'2021-NRGNN] Nrgnn: Learning a label noise resistant graph neural network on sparsely and noisily labeled graphs. [[paper]](https://dl.acm.org/doi/pdf/10.1145/3447548.3467364)
+- [WSDM'2023-RTGNN] Robust training of graph neural networks via noise governance. [[paper]](https://dl.acm.org/doi/pdf/10.1145/3539597.3570369?casa_token=9LQOlvbtC2AAAAAA:qmY_CT3ipOgGls6v5El4psDQ8tCMZpZfkRiSfBVAI32kXMTNkH2p9ZTQYLC2yUVoOjZJDEB5g27sEDo)
+#### Graph Class-imbalanced Sampling
+- [WSDM'2021-GraphSMOTE] Graphsmote: Imbalanced node classification on graphs with graph neural networks. [[paper]](https://dl.acm.org/doi/pdf/10.1145/3437963.3441720)
+- [KDD'2021-ImGAGN] Imgagn: Imbalanced network embedding via generative adversarial graph networks. [[paper]](https://dl.acm.org/doi/pdf/10.1145/3447548.3467334?casa_token=4G06vl98C9IAAAAA:YgtmaAMJO5uyHdy3XRNwiw9MQ-SwbVMNSC0M1FkVpbiw0n1XGkGkICXjl3urOfXVUDjsbjiwFWYhxOk)
+- [WWW'2021-PC-GNN] Pick and choose: a GNN-based imbalanced learning approach for fraud detection. [[paper]](https://dl.acm.org/doi/pdf/10.1145/3442381.3449989)
+- [WWW'2021-GraphMixup] Mixup for node and graph classification. [[paper]](https://dl.acm.org/doi/pdf/10.1145/3442381.3449796)
+- [ICLR'2021-GraphENS] GraphENS: Neighbor-aware ego network synthesis for class-imbalanced node classification. [[paper]](https://openreview.net/pdf?id=MXEl7i-iru)
+- [arXiv'2023-GraphSR] GraphSR: A Data Augmentation Algorithm for Imbalanced Node Classification. [[paper]](https://arxiv.org/pdf/2302.12814)
+- [NIPS'2021-ReNode] Topology-imbalance learning for semi-supervised node classification. [[paper]](https://proceedings.neurips.cc/paper/2021/file/fa7cdfad1a5aaf8370ebeda47a1ff1c3-Paper.pdf)
+- [arXiv；2022-TopoImb] TopoImb: Toward topology-level imbalance in learning from graphs. [[paper]](https://arxiv.org/pdf/2212.08689)
+- [IJCAI'2013-igBoost] Graph classification with imbalanced class distributions and noise. [[paper]](https://www.researchgate.net/profile/Shirui-Pan-3/publication/262204599_Graph_classification_with_imbalanced_class_distributions_and_noise/links/564bc59d08ae3374e5dddb5b/Graph-classification-with-imbalanced-class-distributions-and-noise.pdf)
+- [CIKM'2022-G2GNN] Imbalanced graph classification via graph-of-graph neural networks. [[paper]](https://dl.acm.org/doi/pdf/10.1145/3511808.3557356?casa_token=gzP3pWpfsWMAAAAA:BPdp0A0Mh3tWlXo6i4Mvd5kfVo0geTqqfH_hOyCpAki9krAMdq6fZKCScHffiQdfq9mZSPYBRR85uL4)
+
 ## Graph Data-Centric Learning Paradigms
