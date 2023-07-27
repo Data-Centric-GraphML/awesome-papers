@@ -1,10 +1,10 @@
 # Awesome-Data-Centric-GraphML
-A collection of papers and resources about Data Centric Graph Machine Learning (DC-GML)
+A collection of papers and resources about Data-centric Graph Machine Learning (DC-GML)
 
 
 
-## Graph Data-Centric Tasks
-### Structure-based tasks
+## How To Enhance Graph Data Availability and Quality? --Graph Data Improvement
+### Graph Structure Enhancement
 #### Graph Structure Learning
 - [KDD'2020-Pro-GNN] Graph structure learning for robust graph neural networks. [[paper]](https://dl.acm.org/doi/pdf/10.1145/3394486.3403049)
 - [ICML'2019-LDS] Learning discrete structures for graph
@@ -23,7 +23,7 @@ neural networks. [[paper]](http://proceedings.mlr.press/v97/franceschi19a/france
 - [NIPS'2019-GDC] Diffusion improves graph learning. [[paper]](https://proceedings.neurips.cc/paper/2019/file/23c894276a2c5a16470e6a31f4618d73-Paper.pdf)
 - [ICLR'2021] Adaptive universal generalized pagerank graph neural network. [[paper]](https://arxiv.org/pdf/2006.07988)
 - [NIPS'2021-ADC] Adaptive diffusion in graph neural networks. [[paper]](https://proceedings.neurips.cc/paper/2021/file/c42af2fa7356818e0389593714f59b52-Paper.pdf)
-### Feature-based tasks
+### Graph Feature Enhancement
 #### Graph Feature Completion
 - [NN'2020-GINN] Missing data imputation with adversarially-trained graph convolutional networks. [[paper]](https://www.sciencedirect.com/science/article/pii/S0893608020302185?casa_token=I7BtgyazKl8AAAAA:edsPKQbKSp1fbciuDc76aYnSPSS6T03ESUb_i2KDUJ6o2cA5LVCS-K8SfkhgWCqi5Bqog9hihvU)
 - [FGCS'2021-GCN_MF] Graph convolutional networks for graphs containing missing features. [[paper]](https://www.sciencedirect.com/science/article/pii/S0167739X20330405)
@@ -40,7 +40,7 @@ neural networks. [[paper]](http://proceedings.mlr.press/v97/franceschi19a/france
 - [TSP'2021] Graph unrolling networks: Interpretable neural networks for graph signal denoising. [[paper]](https://ieeexplore.ieee.org/iel7/78/4359509/09453145.pdf?casa_token=WBFBG92sg-wAAAAA:CFc6t1fhHyEQleL3nCQiBE5XNjTGFqS80VXxkHSDPEPzS7OEed6ydOV7M0ZN-yKlrkljWt-sXKh7)
 - [TSP'2022] Untrained graph neural networks for denoising. [[paper]](https://ieeexplore.ieee.org/iel7/78/4359509/09959969.pdf?casa_token=79riV29MxvkAAAAA:kEUgypSxBhsj1TqD-3vTPxUY1JoHN5E6vTh2uFkuJrSTiA7bGt6qIorsfuHB3kxczHZGkyH8E0Um)
 - [WWW'2023-MAGNET] Robust graph representation learning for local corruption recovery. [[paper]](https://yuguangwang.github.io/papers/L_p_graph_regularizer_ICML%20TAG%202022.pdf)
-### Label-based tasks
+### Graph Label Enhancement
 #### Graph Pseudo-labeling
 - [AAAI'2018] Deeper insights into graph convolutional networks for semi-supervised learning. [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/11604/11463)
 - [AAAI'2020] Multi-stage self-supervised learning for graph convolutional networks on graphs with few labeled nodes. [[paper]](https://ojs.aaai.org/index.php/AAAI/article/download/6048/5904)
@@ -62,8 +62,70 @@ neural networks. [[paper]](http://proceedings.mlr.press/v97/franceschi19a/france
 - [ICLR'2021-GraphENS] GraphENS: Neighbor-aware ego network synthesis for class-imbalanced node classification. [[paper]](https://openreview.net/pdf?id=MXEl7i-iru)
 - [arXiv'2023-GraphSR] GraphSR: A Data Augmentation Algorithm for Imbalanced Node Classification. [[paper]](https://arxiv.org/pdf/2302.12814)
 - [NIPS'2021-ReNode] Topology-imbalance learning for semi-supervised node classification. [[paper]](https://proceedings.neurips.cc/paper/2021/file/fa7cdfad1a5aaf8370ebeda47a1ff1c3-Paper.pdf)
-- [arXiv；2022-TopoImb] TopoImb: Toward topology-level imbalance in learning from graphs. [[paper]](https://arxiv.org/pdf/2212.08689)
+- [arXiv'2022-TopoImb] TopoImb: Toward topology-level imbalance in learning from graphs. [[paper]](https://arxiv.org/pdf/2212.08689)
 - [IJCAI'2013-igBoost] Graph classification with imbalanced class distributions and noise. [[paper]](https://www.researchgate.net/profile/Shirui-Pan-3/publication/262204599_Graph_classification_with_imbalanced_class_distributions_and_noise/links/564bc59d08ae3374e5dddb5b/Graph-classification-with-imbalanced-class-distributions-and-noise.pdf)
 - [CIKM'2022-G2GNN] Imbalanced graph classification via graph-of-graph neural networks. [[paper]](https://dl.acm.org/doi/pdf/10.1145/3511808.3557356?casa_token=gzP3pWpfsWMAAAAA:BPdp0A0Mh3tWlXo6i4Mvd5kfVo0geTqqfH_hOyCpAki9krAMdq6fZKCScHffiQdfq9mZSPYBRR85uL4)
+### Graph Size Enhancement
+#### Graph Size Reduction
+- [ICML'2009-Herding] Herding dynamical weights to learn. [[paper]](https://dl.acm.org/doi/pdf/10.1145/1553374.1553517?casa_token=mSkkhW5jA84AAAAA:31mF183Hzi4X1un4BsuRLuaFVId7Febx4PXXQbbZ0uquebekHdDhncU3QhaH0zxb6ItnWYdWehkfhFM)
+- [CVPR'2017-ICARL] ICARL: Incremental classifier and representation learning. [[paper]](https://openaccess.thecvf.com/content_cvpr_2017/papers/Rebuffi_iCaRL_Incremental_Classifier_CVPR_2017_paper.pdf)
+- [ICLR'2018-K-center] Active learning for convolutional neural networks: A core-set approach. [[paper]](https://arxiv.org/pdf/1708.00489.pdf)
+- [ICAIS'2020-Coarsening] Graph coarsening with preserved spectral properties. [[paper]](http://proceedings.mlr.press/v108/jin20a/jin20a.pdf)
+- [arXiv'2021] Graph domain adaptation: A generative view. [[paper]](https://arxiv.org/pdf/2106.07482)
+- [ICLR'2021-GCond] Graph condensation for graph neural networks. [[paper]](https://arxiv.org/pdf/2110.07580)
+- [KDD'2022-DosCond] Condensing graphs via one-step gradient matching. [[paper]](https://dl.acm.org/doi/pdf/10.1145/3534678.3539429?casa_token=gijVmZummzYAAAAA:nq1yIq5wN-sLT-qsLavBYyys3163tZNUB_3Hj7bOC6bkE4wP5BHZEcf-faFnk5djxCujlvTLQ3BSnlc)
+- [NeurIPS-Workshop'2022] Faster hyperparameter search on graphs via calibrated dataset condensation. [[paper]](https://openreview.net/pdf?id=wcbgjg0X7LJ)
+- [arXiv'2023-SFGC] Structure-free graph condensation: From large-scale graphs to condensed graph-free data. [[paper]](https://arxiv.org/pdf/2306.02664)
+#### Graph Data Augmentation
+- [ACM SIGKDD Explorations Newsletter'2022-Survey]  Data augmentation for deep graph learning: A survey. [[paper]](https://dl.acm.org/doi/pdf/10.1145/3575637.3575646?casa_token=RTnILzVw3x4AAAAA:la46qhiVu6kPiJ1k4dopSZTYb0iA4oo2r8sIEXSGUUkoTW5byrlx-9VVf5-OOkoc0cDfcC-GOYpzc2k)
+- [arXiv'2202-Survey] Graph data augmentation for graph machine learning: A survey. [[paper]](https://arxiv.org/pdf/2202.08871)
+- [ICLR'2020-DropEdge] DropEdge: Towards deep graph convolutional networks on node classification. [[paper]](https://arxiv.org/pdf/1907.10903)
+- [NeurIPS'2020-GRAND] Graph random neural networks for semi-supervised learning on graphs. [[paper]](https://proceedings.neurips.cc/paper/2020/file/fb4c835feb0a65cc39739320d7a51c02-Paper.pdf)
+- [AAAI'2022-NASA] Regularizing graph neural networks via consistency-diversity graph augmentations. [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/20307/20066)
+- [KDD'2020-NodeAug] NodeAug: Semi-supervised node classification with data augmentation. [[paper]](https://dl.acm.org/doi/pdf/10.1145/3394486.3403063?casa_token=5O6rVP5WUNcAAAAA:39vUmeVOiby_U-6UC3f4_vw5YEox2awfj22tgTeoZMa8f2IPeQ0w-2x23QC8V9_nwSO2F8Y9tFVWUbY)
+- [AAAI'2021-GAUG] Data augmentation for graph neural networks. [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/17315/17122)
+- [AAAI'2021-GraphMix] Graphmix: Improved training of gnns for semi-supervised learning. [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/17203/17010)
+- [WWW'2021-GraphMixup] Mixup for node and graph classification. [[paper]](https://dl.acm.org/doi/pdf/10.1145/3442381.3449796)
+- [WSDM'2021-GraphSMOTE] Graphsmote: Imbalanced node classification on graphs with graph neural networks. [[paper]](https://dl.acm.org/doi/pdf/10.1145/3437963.3441720)
+- [CVPR'2022-FLAG] Robust optimization as data augmentation for large-scale graphs. [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Kong_Robust_Optimization_As_Data_Augmentation_for_Large-Scale_Graphs_CVPR_2022_paper.pdf)
+- [ICML'2022-G-Mixup] G-mixup: Graph data augmentation for graph classification. [[paper]](https://proceedings.mlr.press/v162/han22c/han22c.pdf)
+- [ICML'2022-LAGNN] Local augmentation for graph neural networks. [[paper]](https://proceedings.mlr.press/v162/liu22s/liu22s.pdf)
 
-## Graph Data-Centric Learning Paradigms
+## How To Learn From Graph Data With Limited-availability and Low-quality? --Graph Data Exploitation
+### Graph Self-supervised Learning
+- [TKDE'2022-Survey] Graph self-supervised learning: A survey. [[paper]](https://ieeexplore.ieee.org/iel7/69/10113816/09770382.pdf?casa_token=ydQeuh-OkpYAAAAA:hFnyLT6NKFztPKkO47dh8cdQ49fm5Sal8jmpoxdz5a4jBXqbL08A3miB1Z2XfGkrGChYovXRyb2W)
+- [arXiv'2016-GAE] Variational graph auto-encoders. [[paper]](https://arxiv.org/pdf/1611.07308.pdf%5D)
+- [CIKM'2017-MGAE] MGAE: Marginalized graph autoencoder for graph clustering. [[paper]](https://dl.acm.org/doi/pdf/10.1145/3132847.3132967?casa_token=JNQueyr_GKgAAAAA:7xzVsWp65NPw-I2MqMxV-OkI21tM6chr7nfSHdcihKJGaEL5IL3OFYD17uEXSCI4a4JS4wTFAsSshwI)
+- [IJCAI'2018-ARGA] Adversarially regularized graph autoencoder for graph embedding. [[paper]](https://arxiv.org/pdf/1802.04407)
+- [ICLR'2019-DGI] Deep graph infomax. [[paper]](https://arxiv.org/pdf/1809.10341)
+- [ICML'2020-MVGRL] Contrastive multi-view representation learning on graphs. [[paper]](http://proceedings.mlr.press/v119/hassani20a/hassani20a.pdf)
+- [NeurIPS'2020-GraphCL] Graph contrastive learning with augmentations. [[paper]](https://proceedings.neurips.cc/paper_files/paper/2020/file/3fe230348e9a12c13120749e3f9fa4cd-Paper.pdf)
+- [arXiv'2020-PairwiseDistance/NodeProperty] Self-supervised learning on graphs: Deep insights and new direction. [[paper]](https://arxiv.org/pdf/2006.10141)
+- [NeurIPS'2020-GROVER] Self-supervised graph transformer on large-scale molecular data. [[paper]](https://proceedings.neurips.cc/paper/2020/file/94aef38441efa3380a3bed3faf1f9d5d-Paper.pdf)
+- [WWW'2020-GMI] Graph representation learning via graphical mutual information maximization. [[paper]](https://dl.acm.org/doi/pdf/10.1145/3366423.3380112?casa_token=8_d4PlRfYmIAAAAA:uYIQuMXnOVCRWjFlpm3Q2TKpnR-wrMBM_-MRjnS7A_8F8oEqKR5IAK0mXX7bDcP3o9L3_hk_-3MWjn4)
+- [ICML'2020] When does self-supervision help graph convolutional networks? [[paper]](http://proceedings.mlr.press/v119/you20a/you20a.pdf)
+- [WWW'2021-GCA] Graph contrastive learning with adaptive augmentation. [[paper]](https://dl.acm.org/doi/pdf/10.1145/3442381.3449802?casa_token=J5uSGyBfZzgAAAAA:3ppijn_2zTmgQmUeVpULosGAFxH8EBDZQoupLyb_JMTUBdELSQ27XCKREpudR4rnwn1ZPGEwNkmm2mI)
+- [ICML'2021-JOAO] Graph contrastive learning automated. [[paper]](http://proceedings.mlr.press/v139/you21a/you21a.pdf)
+- [NeurIPS'2021-AD-GCL] Adversarial graph augmentation to improve graph contrastive learning. [[paper]](https://proceedings.neurips.cc/paper/2021/file/854f1fb6f65734d9e49f708d6cd84ad6-Paper.pdf)
+- [KDD'2022-GraphMAE] GraphMAE: Self-supervised masked graph autoencoders. [[paper]](https://dl.acm.org/doi/pdf/10.1145/3534678.3539321)
+- [Information Sciences'2022-S2GRL] A new self-supervised task on graphs: Geodesic distance prediction. [[paper]](https://www.sciencedirect.com/science/article/pii/S0020025522006375?casa_token=I1kGX3li2DYAAAAA:JoWLxh9juXpnsr9g1PY2J56GT5rFe2EcVEbLxVVkN0uiWHQ8rJuyS2UQQZ9Eg5a98RavqlGGUus)
+- [ICLR'2022-AutoSSL] Automated self-supervised learning for graphs. [[paper]](https://arxiv.org/pdf/2106.05470)
+
+### Graph Active Learning
+- [arXiv'2017-AGE] Active learning for graph embedding. [[paper]](https://arxiv.org/pdf/1705.05085)
+- [IJCAI'2018-ANRMAB] Active discriminative network representation learning. [[paper]](https://opus.lib.uts.edu.au/bitstream/10453/131527/1/Active%20discriminative%20network%20representation%20learning.pdf)
+- [IJCAI'2019-ActiveHNE] ActiveHNE: active heterogeneous network embedding. [[paper]](https://arxiv.org/pdf/1905.05659)
+- [arXiv'2019-FeatProp] Active learning for graph neural networks via node feature propagation. [[paper]](https://arxiv.org/pdf/1910.07567)
+- [WWW'2020-ATNE] Active domain transfer on network embedding. [[paper]](https://dl.acm.org/doi/pdf/10.1145/3366423.3380024?casa_token=FecoeNTSq2QAAAAA:BzlicC0uYb8kyV8FgxwwGWg5V3G9DRb8cnATqEG_TURzQUKCIZYcF83JuQ0Jl14Y-EUXIygS0UAaDyI)
+- [KDD'2020-ASGN] ASGN: An active semi-supervised graph neural network for molecular property prediction. [[paper]](https://dl.acm.org/doi/pdf/10.1145/3394486.3403117?casa_token=QSPH_GxeKq8AAAAA:GCbb1_8dboX0xxf94atEz2iBRtxb_RtuLWOaHYZW9hbfkojnPwhUN0U2LSMOxfYoAiw1BkMXoKsyjgI)
+- [NeurIPS'2020-GPA] Graph policy network for transferable active learning on graphs. [[paper]](https://proceedings.neurips.cc/paper/2020/file/73740ea85c4ec25f00f9acbd859f861d-Paper.pdf)
+- [ACML'2020-MetAL] Metal: Active semi-supervised learning on graphs via meta-learning. [[paper]](http://proceedings.mlr.press/v129/madhawa20a/madhawa20a.pdf)
+- [TNNLS'2020-SEAL] Seal: Semisupervised adversarial active learning on attributed graphs. [[paper]](https://ieeexplore.ieee.org/iel7/5962385/6104215/09158558.pdf?casa_token=E_ZvrdYJhakAAAAA:0gkVyZk9eCLyBj7U04Z1_HBmA8LBZtZ4KtdwxUdY4Nl6wXCGB8i4ZRxyi0rEShdk3swoEVwijf8X)
+- [VLDB Endowment'2021-GRAIN] GRAIN: improving data efficiency of graph neural networks via diversified in fluence maximization. [[paper]](https://arxiv.org/pdf/2108.00219)
+- [NeurIPS'2021-RIM] RIM: Reliable influence-based active learning on graphs. [[paper]](https://proceedings.neurips.cc/paper/2021/file/eb86d510361fc23b59f18c1bc9802cc6-Paper.pdf)
+- [WWW'2021-Attent] Attent: Active attributed network alignment. [[paper]](https://dl.acm.org/doi/pdf/10.1145/3442381.3449886?casa_token=IfxcTs5UUWgAAAAA:pJ-lyCKpCf1Jc3Kr7GG-JVWqYPH9jDYJjEwMa-3W-woQYcop5H3Zx264KGy3vCJ2EJU_WqAk2EH-RQI)
+- [ICMD'2021-ALG] ALG: Fast and accurate active learning framework for graph convolutional networks. [[paper]](https://dl.acm.org/doi/pdf/10.1145/3448016.3457325?casa_token=mvig94UQ6ngAAAAA:vU5pYuZ6WohLXhjiaCsuthFrGhPwqH4lYRDRLYjtXeiPb1_rvscz04dBZIZhGg4gX3mon6rFz1Xs6hs)
+- [WWW'2022-ALLIE] ALLIE: Active learning on large-scale imbalanced graphs. [[paper]](https://dl.acm.org/doi/pdf/10.1145/3485447.3512229)
+- [AAAI'2022-BIGENE] Batch active learning with graph neural networks via multi-agent deep reinforcement learning. [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/20897/20656)
+- [ICLR'2022-IGP] Information Gain Propagation: A new way to graph active learning with soft labels. [[paper]](https://arxiv.org/pdf/2203.01093)
+- [KDD'2022-JuryGCN] JuryGCN: quantifying jackknife uncertainty on graph convolutional networks. [[paper]](https://dl.acm.org/doi/pdf/10.1145/3534678.3539286?casa_token=pMOGKpsGGzwAAAAA:-hnHQLGfe7DXEX9DtkVcKC-t_RnRICOjtK9uXDAc_4GULkfy_l0AgGveJw9fGntKT3WivfcfeaKmwhk)
