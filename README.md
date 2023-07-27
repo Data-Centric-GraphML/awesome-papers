@@ -3,7 +3,8 @@ A collection of papers and resources about Data-centric Graph Machine Learning (
 
 
 
-## How To Enhance Graph Data Availability and Quality? --Graph Data Improvement
+## How To Enhance Graph Data Availability and Quality? 
+## --Graph Data Improvement
 ### Graph Structure Enhancement
 #### Graph Structure Learning
 - [KDD'2020-Pro-GNN] Graph structure learning for robust graph neural networks. [[paper]](https://dl.acm.org/doi/pdf/10.1145/3394486.3403049)
@@ -155,7 +156,8 @@ neural networks. [[paper]](http://proceedings.mlr.press/v97/franceschi19a/france
 - [arXiv'2021] Graph domain adaptation: A generative view. [[paper]](https://arxiv.org/pdf/2106.07482)
 - [NeurIPS-Workshop'2022-SRNC] Shift-robust node classification via graph clustering co-training. [[paper]](https://openreview.net/pdf?id=CXm7uzRlvxf)
 
-## How To Build Graph MLOps System: The Graph Data-centric View. --Graph Data Collection, Exploration, Maintenance
+## How To Build Graph MLOps System: The Graph Data-centric View. 
+## --Graph Data Collection, Exploration, Maintenance
 ### Graph Data Collection
 - Amazon Mechanical Turk: https://www.mturk.com/
 - [SIGIR-Workshop'2011] Semi-supervised consensus labeling for crowdsourcing. [[paper]](https://www.ischool.utexas.edu/~ml/papers/tang-cir11.pdf)
