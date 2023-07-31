@@ -4,9 +4,9 @@ A collection of papers and resources about Data-centric Graph Machine Learning (
 
 
 ## How To Enhance Graph Data Availability and Quality?
-***
+
 The answer to this question corresponds to **'Graph Data Improvement'** stage in DC-GML framework, incorporating four aspects of graph data characteristics, i.e., **Graph Structure Enhancement, Graph Feature Enhancement, Graph Label Enhancement, and Graph Size Enhancement**.
-***
+
 ### Graph Structure Enhancement
 #### Graph Structure Learning
 - [KDD'2020-Pro-GNN] Graph structure learning for robust graph neural networks. [[paper]](https://dl.acm.org/doi/pdf/10.1145/3394486.3403049)
@@ -95,9 +95,8 @@ neural networks. [[paper]](http://proceedings.mlr.press/v97/franceschi19a/france
 - [ICML'2022-LAGNN] Local augmentation for graph neural networks. [[paper]](https://proceedings.mlr.press/v162/liu22s/liu22s.pdf)
 
 ## How To Learn From Graph Data With Limited-availability and Low-quality? 
-***
 The answer to this question corresponds to **'Graph Data Exploitation'** stage in DC-GML framework, incorporating four strategies to learn from graph data with low-quality and limited-availability, i.e., **Graph Self-supervised Learning, Graph Semi-supervised Learning, Graph Active Learning, and Graph Transfer Learning**.
-***
+
 ### Graph Self-supervised Learning
 - [TKDE'2022-Survey] Graph self-supervised learning: A survey. [[paper]](https://ieeexplore.ieee.org/iel7/69/10113816/09770382.pdf?casa_token=ydQeuh-OkpYAAAAA:hFnyLT6NKFztPKkO47dh8cdQ49fm5Sal8jmpoxdz5a4jBXqbL08A3miB1Z2XfGkrGChYovXRyb2W)
 - [arXiv'2016-GAE] Variational graph auto-encoders. [[paper]](https://arxiv.org/pdf/1611.07308.pdf%5D)
@@ -161,11 +160,9 @@ The answer to this question corresponds to **'Graph Data Exploitation'** stage i
 - [arXiv'2021] Graph domain adaptation: A generative view. [[paper]](https://arxiv.org/pdf/2106.07482)
 - [NeurIPS-Workshop'2022-SRNC] Shift-robust node classification via graph clustering co-training. [[paper]](https://openreview.net/pdf?id=CXm7uzRlvxf)
 
-## How To Build Graph MLOps System: The Graph Data-centric View. 
-***
+## How To Build Graph MLOps System: The Graph Data-centric View.
 The answer to this question corresponds to three stages of **'Graph Data Collection, Graph Data Exploration, and Graph Data Maintenance'** in DC-GML framework. Along with **Graph Data Improvement and Graph Data Exploitation**, we build a graph MLOps from the graph data-centric view.
---Graph Data Collection, Exploration, Maintenance
-***
+
 ### Graph Data Collection
 - Amazon Mechanical Turk: https://www.mturk.com/
 - [SIGIR-Workshop'2011] Semi-supervised consensus labeling for crowdsourcing. [[paper]](https://www.ischool.utexas.edu/~ml/papers/tang-cir11.pdf)
