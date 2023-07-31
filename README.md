@@ -3,7 +3,8 @@ A collection of papers and resources about Data-centric Graph Machine Learning (
 
 
 
-## How To Enhance Graph Data Availability and Quality? --Graph Data Improvement
+## How To Enhance Graph Data Availability and Quality? 
+--Graph Data Improvement
 ### Graph Structure Enhancement
 #### Graph Structure Learning
 - [KDD'2020-Pro-GNN] Graph structure learning for robust graph neural networks. [[paper]](https://dl.acm.org/doi/pdf/10.1145/3394486.3403049)
