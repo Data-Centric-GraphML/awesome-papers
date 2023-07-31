@@ -161,6 +161,7 @@ The answer to this question corresponds to **'Graph Data Exploitation'** stage i
 - [NeurIPS-Workshop'2022-SRNC] Shift-robust node classification via graph clustering co-training. [[paper]](https://openreview.net/pdf?id=CXm7uzRlvxf)
 
 ## How To Build Graph MLOps System: The Graph Data-centric View.
+
 The answer to this question corresponds to three stages of **'Graph Data Collection, Graph Data Exploration, and Graph Data Maintenance'** in DC-GML framework. Along with **Graph Data Improvement and Graph Data Exploitation**, we build a graph MLOps from the graph data-centric view.
 
 ### Graph Data Collection
