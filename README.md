@@ -5,7 +5,7 @@ A collection of papers and resources about Data-centric Graph Machine Learning (
 
 ## How To Enhance Graph Data Availability and Quality?
 
-The answer to this question corresponds to **'Graph Data Improvement'** stage in DC-GML framework, incorporating four aspects of graph data characteristics, i.e., **Graph Structure Enhancement, Graph Feature Enhancement, Graph Label Enhancement, and Graph Size Enhancement**.
+The answer to this question corresponds to **'Graph Data Improvement'** stage in DC-GML framework, incorporating four aspects of graph data characteristics, i.e., *Graph Structure Enhancement, Graph Feature Enhancement, Graph Label Enhancement, and Graph Size Enhancement*.
 
 ### Graph Structure Enhancement
 #### Graph Structure Learning
@@ -95,7 +95,7 @@ neural networks. [[paper]](http://proceedings.mlr.press/v97/franceschi19a/france
 - [ICML'2022-LAGNN] Local augmentation for graph neural networks. [[paper]](https://proceedings.mlr.press/v162/liu22s/liu22s.pdf)
 
 ## How To Learn From Graph Data With Limited-availability and Low-quality? 
-The answer to this question corresponds to **'Graph Data Exploitation'** stage in DC-GML framework, incorporating four strategies to learn from graph data with low-quality and limited-availability, i.e., **Graph Self-supervised Learning, Graph Semi-supervised Learning, Graph Active Learning, and Graph Transfer Learning**.
+The answer to this question corresponds to **'Graph Data Exploitation'** stage in DC-GML framework, incorporating four strategies to learn from graph data with low-quality and limited-availability, i.e., *Graph Self-supervised Learning, Graph Semi-supervised Learning, Graph Active Learning, and Graph Transfer Learning*.
 
 ### Graph Self-supervised Learning
 - [TKDE'2022-Survey] Graph self-supervised learning: A survey. [[paper]](https://ieeexplore.ieee.org/iel7/69/10113816/09770382.pdf?casa_token=ydQeuh-OkpYAAAAA:hFnyLT6NKFztPKkO47dh8cdQ49fm5Sal8jmpoxdz5a4jBXqbL08A3miB1Z2XfGkrGChYovXRyb2W)
