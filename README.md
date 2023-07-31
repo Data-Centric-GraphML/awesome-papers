@@ -2,6 +2,35 @@
 A collection of papers and resources about Data-centric Graph Machine Learning (DC-GML)
 
 
+Table of Contents
+=================
+
+* [Awesome-Data-Centric-GraphML](#awesome-data-centric-graphml)
+   * [How To Enhance Graph Data Availability and Quality?](#how-to-enhance-graph-data-availability-and-quality)
+      * [Graph Structure Enhancement](#graph-structure-enhancement)
+         * [Graph Structure Learning](#graph-structure-learning)
+         * [Graph Sparsification](#graph-sparsification)
+         * [Graph Diffusion](#graph-diffusion)
+      * [Graph Feature Enhancement](#graph-feature-enhancement)
+         * [Graph Feature Completion](#graph-feature-completion)
+         * [Graph Feature Denoising](#graph-feature-denoising)
+      * [Graph Label Enhancement](#graph-label-enhancement)
+         * [Graph Pseudo-labeling](#graph-pseudo-labeling)
+         * [Graph Label Denoising](#graph-label-denoising)
+         * [Graph Class-imbalanced Sampling](#graph-class-imbalanced-sampling)
+      * [Graph Size Enhancement](#graph-size-enhancement)
+         * [Graph Size Reduction](#graph-size-reduction)
+         * [Graph Data Augmentation](#graph-data-augmentation)
+   * [How To Learn From Graph Data With Limited-availability and Low-quality?](#how-to-learn-from-graph-data-with-limited-availability-and-low-quality)
+      * [Graph Self-supervised Learning](#graph-self-supervised-learning)
+      * [Graph Semi-supervised Learning](#graph-semi-supervised-learning)
+      * [Graph Active Learning](#graph-active-learning)
+      * [Graph Transfer Learning](#graph-transfer-learning)
+   * [How To Build Graph MLOps System: The Graph Data-centric View.](#how-to-build-graph-mlops-system-the-graph-data-centric-view)
+      * [Graph Data Collection](#graph-data-collection)
+      * [Graph Data Exploration](#graph-data-exploration)
+      * [Graph Data Maintenance](#graph-data-maintenance)
+      * [Graph MLOps](#graph-mlops)
 
 ## How To Enhance Graph Data Availability and Quality?
 
