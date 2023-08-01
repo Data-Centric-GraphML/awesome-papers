@@ -6,6 +6,7 @@ We undertake a comprehensive **review** and provide a promising **outlook** for 
 <div align=center>
 <img src="https://github.com/Amanda-Zheng/Awesome-Data-Centric-GraphML/assets/61812981/896d5444-ac74-4042-b4fa-d4ff6d328cf8" width="600px">
 </div>
+
 Table of Contents
 =================
 
