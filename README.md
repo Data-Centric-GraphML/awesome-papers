@@ -2,7 +2,14 @@
 
 A collection of papers and resources about Data-centric Graph Machine Learning (DC-GML).
 
-We undertake a comprehensive **review** and provide a promising **outlook** for data-centric graph machine learning (DC-GML), and propose a systematic framework for DC-GML that encompasses all stages of the graph data lifecycle, including graph data collection, exploration, improvement, exploitation, and maintenance. More details can be found in our review & outlook work: 
+We undertake a comprehensive **review** and provide a promising **outlook** for data-centric graph machine learning (DC-GML), and propose a systematic framework for DC-GML that encompasses all stages of the graph data lifecycle, including graph data collection, exploration, improvement, exploitation, and maintenance. More details can be found in our review & outlook work: https://arxiv.org/abs/2309.10979
+```
+@article{zheng2023towards,
+  title={Towards Data-centric Graph Machine Learning: Review and Outlook},
+  author={Zheng, Xin and Liu, Yixin and Bao, Zhifeng and Fang, Meng and Hu, Xia and Liew, Alan Wee-Chung and Pan, Shirui},
+  journal={arXiv preprint arXiv:2309.10979},
+  year={2023}}
+```
 <div align=center>
 <img src="https://github.com/Amanda-Zheng/Awesome-Data-Centric-GraphML/assets/61812981/6ac4d7d6-eb85-4e10-a20a-fc0d5944a7e5" width="600px">
 </div>
