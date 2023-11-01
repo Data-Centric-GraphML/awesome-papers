@@ -14,6 +14,9 @@ We undertake a comprehensive **review** and provide a promising **outlook** for 
 <img src="https://github.com/Amanda-Zheng/Awesome-Data-Centric-GraphML/assets/61812981/6ac4d7d6-eb85-4e10-a20a-fc0d5944a7e5" width="600px">
 </div>
 
+## Updates
+- **2023.11**  Invited to give a tutorial in Australia Database Conference (ADC), 2023. The tutorial slides can be found in the folder.
+
 Table of Contents
 =================
 
