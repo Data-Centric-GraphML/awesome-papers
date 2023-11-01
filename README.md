@@ -15,7 +15,8 @@ We undertake a comprehensive **review** and provide a promising **outlook** for 
 </div>
 
 ## Updates
-- **2023.11**  Invited to give a tutorial in Australia Database Conference (ADC), 2023. The tutorial slides can be found in the folder.
+- **2023.11**
+  - Invited to give a tutorial in Australia Database Conference (ADC), 2023. The tutorial slides can be found in the folder.
 
 Table of Contents
 =================
